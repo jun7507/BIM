@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "datatables.net-bs5": "^1.13.8",
+    "foundation-sites": "^6.8.1"
+  }
+}
